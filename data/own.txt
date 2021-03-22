@@ -1,0 +1,7 @@
+0	train	Yes
+1	test	No
+2	train	maybe
+3	train	No
+4	test	Yes
+5	test	maybe
+6	train	Yes
