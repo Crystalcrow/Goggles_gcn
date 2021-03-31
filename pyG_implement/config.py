@@ -5,7 +5,7 @@ class CONFIG(object):
     def __init__(self):
         super(CONFIG, self).__init__()
         
-        self.dataset = 'R8'
+        self.dataset = 'Goggles'
         self.model = 'gcn'  # 'gcn', 'gcn_cheby', 'dense'
         self.learning_rate = 0.02   # Initial learning rate.
         self.epochs  = 200  # Number of epochs to train.

@@ -1,7 +1,0 @@
-would like plain sweater something else \?
-tutorial intended gentle introduction argparse , recommended command line parsing module python standard library
-snippet help text
-let show sort functionality going explore introductory tutorial making use ls command
-ls command useful run without options defaults displaying contents current directory
-great nice wool slacks would like take look \?
-want beyond provides default , tell bit case , want display different directory

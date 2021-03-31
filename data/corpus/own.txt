@@ -1,7 +1,0 @@
-Would you like a plain sweater or something else?​
-Great. We have some very nice wool slacks over here. Would you like to take a look?
-This tutorial is intended to be a gentle introduction to argparse, the recommended command-line parsing module in the Python standard library.
-Let’s show the sort of functionality that we are going to explore in this introductory tutorial by making use of the ls command:
-The ls command is useful when run without any options at all. It defaults to displaying the contents of the current directory.
-If we want beyond what it provides by default, we tell it a bit more. In this case, we want it to display a different directory
-That’s a snippet of the help text.
